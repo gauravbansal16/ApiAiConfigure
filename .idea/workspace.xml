@@ -10,39 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b2b912-b1c0-4bab-8bf7-7b6f87c76a4a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEEHelloWorld_ear.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEEHelloWorld_ear_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEEHelloWorld_ejb_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEEHelloWorld_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/JavaEEHelloWorld_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/META-INF/application.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/EntityDetails.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/classes/Entries.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/classes/JavaBeans/Entity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/classes/JavaBeans/EntityEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/classes/MyServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/classes/main/resources/Entries.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/JavaEEHelloWorld.war/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/MyServlet.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear/JavaEEHelloWorld_ear.ear" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear/JavaEEHelloWorld_ear.ear" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/JavaBeans/Entity.class" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/JavaBeans/Entity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/JavaBeans/EntityEntry.class" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/JavaBeans/EntityEntry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/MyServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/classes/MyServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JavaBeans/Entity.class" afterPath="$PROJECT_DIR$/target/classes/JavaBeans/Entity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JavaBeans/EntityEntry.class" afterPath="$PROJECT_DIR$/target/classes/JavaBeans/EntityEntry.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaEEHelloWorld.iml" afterPath="$PROJECT_DIR$/JavaEEHelloWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/META-INF/application.xml" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_ear_exploded/META-INF/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/EntityDetails.jsp" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/EntityDetails.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/JavaEEHelloWorld_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBeans/Entity.java" afterPath="$PROJECT_DIR$/src/JavaBeans/Entity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaBeans/EntityEntry.java" afterPath="$PROJECT_DIR$/src/JavaBeans/EntityEntry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/MyServlet.java" afterPath="$PROJECT_DIR$/src/main/java/MyServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/EntityDetails.jsp" afterPath="$PROJECT_DIR$/web/EntityDetails.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1026,12 +994,20 @@
       <workItem from="1484551800610" duration="4562000" />
       <workItem from="1484567539666" duration="1700000" />
       <workItem from="1484631272510" duration="2598000" />
-      <workItem from="1484642918960" duration="14619000" />
+      <workItem from="1484642918960" duration="14735000" />
     </task>
+    <task id="LOCAL-00001" summary="Add entities">
+      <created>1484744102370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484744102370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45714000" />
+    <option name="totallyTimeSpent" value="45830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1044,7 +1020,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1069,7 +1045,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.45320198" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.45320198" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.54679805" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1088,6 +1064,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add entities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add entities" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
