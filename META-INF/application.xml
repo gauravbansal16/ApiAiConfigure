@@ -6,7 +6,7 @@
 
     <module id="JavaEEHelloWorld-Web">
         <web>
-            <web-uri>JavaEEHelloWorld.war</web-uri>
+            <web-uri>JavaEEHelloWorld_war.war</web-uri>
             <context-root>JavaEEHelloWorldWeb</context-root>
         </web>
     </module>

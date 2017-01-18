@@ -47,4 +47,5 @@ public class EntityEntry implements Serializable{
     public void setSynonyms(final List<String> synonyms) {
         this.synonyms = synonyms;
     }
+
 }

@@ -26,8 +26,7 @@ public class Entity implements Serializable{
     @SerializedName("extend")
     private Boolean extend;
 
-    @SerializedName("isEnum")
-    private Boolean isEnum;
+
 
     public Entity() {
     }
@@ -68,8 +67,6 @@ public class Entity implements Serializable{
                 }
                 else{
                     abc.add(new EntityEntry(words.get(0),words.subList(1,words.size())));
-                    //System.out.println(a);
-                    //this.entries.add(abc);
                     System.out.println("hiqaz");
                 }
 
@@ -113,11 +110,6 @@ public class Entity implements Serializable{
         this.extend = extend;
     }
 
-    public Boolean isEnum() {
-        return isEnum;
-    }
 
-    public void setIsEnum(final Boolean isEnum) {
-        this.isEnum = isEnum;
-    }
+
 }

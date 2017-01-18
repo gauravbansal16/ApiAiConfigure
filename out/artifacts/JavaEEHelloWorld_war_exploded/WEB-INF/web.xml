@@ -8,10 +8,18 @@
         <servlet-name>MyServlet</servlet-name>
         <servlet-class>MyServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>EntityAdded</servlet-name>
+        <servlet-class>EntityAdded</servlet-class>
+    </servlet>
 
     <servlet-mapping>
         <servlet-name>MyServlet</servlet-name>
         <url-pattern>/MyServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>EntityAdded</servlet-name>
+        <url-pattern>/success</url-pattern>
     </servlet-mapping>
 
 </web-app>

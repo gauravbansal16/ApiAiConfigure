@@ -24,9 +24,8 @@ public class MyServlet extends HttpServlet {
         entity.setEntries("/Users/sprinklr/Entries.csv");
         System.out.println("entries set in servlet");
         entity.setExtend(false);
-        entity.setIsEnum(false);
-        entity.setName("Applications");
-        request.setAttribute("Entity", entity);
+        entity.setName("Applicationss");
+        request.getSession().setAttribute("Entity", entity);
         RequestDispatcher rd = request.getRequestDispatcher("EntityDetails.jsp");
         rd.forward(request, response);
     }
